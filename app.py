@@ -3,7 +3,7 @@ import openai
 
 from utils import gpt_feedback, jd_parser, matcher, resume_parser
 
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+#openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 st.set_page_config(page_title="AI Career Helper", layout="wide")
 st.title("💼 AI Career Helper")
