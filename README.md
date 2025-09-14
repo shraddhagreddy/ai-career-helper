@@ -43,6 +43,7 @@ Get a step-by-step learning roadmap
 
 # Project Structure
 ai-career-helper/
+
 ├── app.py               
 ├── requirements.txt      
 ├── utils/                
