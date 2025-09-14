@@ -43,12 +43,12 @@ Get a step-by-step learning roadmap
 
 # Project Structure
 ai-career-helper/
-├── app.py                # Main application script
-├── requirements.txt      # Dependencies
-├── utils/                # Helper functions & modules
-├── data/                 # Resource files, datasets (if any)
-├── .devcontainer/        # Dev environment configs
-└── README.md             # Documentation
+├── app.py               
+├── requirements.txt      
+├── utils/                
+├── data/                 
+├── .devcontainer/        
+└── README.md             
 
 # Tech Stack
 Language: Python 3.x
