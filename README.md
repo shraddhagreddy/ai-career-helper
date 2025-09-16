@@ -58,7 +58,7 @@ Future Integrations: Flask/Django (for web app), scikit-learn/LLMs (for recommen
 
 # Contributing
 
-Contributions are welcome! 🚀
+Contributions are welcome! 
 Fork the repo
 Create your feature branch (git checkout -b feature/NewFeature)
 Commit your changes (git commit -m 'Add some NewFeature')
