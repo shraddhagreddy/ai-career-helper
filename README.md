@@ -2,7 +2,7 @@
 
 AI Career Helper is an intelligent Python-based application designed to guide students, professionals, and enthusiasts in navigating their Artificial Intelligence (AI) career journey.
 It provides personalized career paths, learning resources, and skill-building roadmaps for roles like:
-- Machine Learning Engineer
+- Machine Learning Engineer 
 - Data Scientist
 - AI Researcher
 - NLP/Computer Vision Specialist
